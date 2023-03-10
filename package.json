@@ -16,7 +16,7 @@
     "prod": "NODE_ENV=production node app.js"
   },
   "author": "Anichur Rahaman",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "concurrently": "^7.6.0",
     "dotenv": "^16.0.2",
