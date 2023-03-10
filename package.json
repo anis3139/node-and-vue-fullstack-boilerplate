@@ -4,7 +4,7 @@
   "private": true,
   "version": "1.0.0",
   "author_url": "anichur rahaman",
-  "github": "anis3139/node-and-vue-fullstack-boilerplate",
+  "github": "anisAronno/node-and-vue-fullstack-boilerplate",
   "type": "commonjs",
   "main": "app.js",
   "scripts": {
