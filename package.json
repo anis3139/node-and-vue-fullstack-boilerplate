@@ -1,7 +1,7 @@
 {
   "name": "node-and-vue-fullstack-boilerplate",
   "description": "MEVN Vue js, Node js, vite, tailwind css project bootstraping",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "author_url": "anichur rahaman",
   "github": "anisAronno/node-and-vue-fullstack-boilerplate",
@@ -27,3 +27,4 @@
     "winston": "^3.8.2"
   }
 }
+
